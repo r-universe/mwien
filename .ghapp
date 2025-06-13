@@ -1,0 +1,10 @@
+{
+  "id": 71132188,
+  "created_at": "2025-06-13T09:31:25.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["CIfly", "mwien.r-universe.dev"]
+}
