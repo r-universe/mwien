@@ -1,8 +1,4 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/mwien/mwien.r-universe.dev
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ciflyr"]
-	path = ciflyr
-	url = https://github.com/mwien/CIfly
-	subdir = ciflyr
