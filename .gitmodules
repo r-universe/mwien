@@ -2,3 +2,7 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ciflyr"]
+	path = ciflyr
+	url = https://github.com/mwien/cifly
+	subdir = ciflyr
